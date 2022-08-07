@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<div id="image" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
+</div>
+
+
+
 
 <!--
 **laianemuckler/laianemuckler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### :woman_technologist: Hello there...
+I am a Software Engineering student trying to learn more about the web and how it works.
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 -->
