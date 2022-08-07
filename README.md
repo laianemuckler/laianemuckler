@@ -1,10 +1,7 @@
 
-<div id="image" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="500"/>
 </div>
-
-
-
 
 <!--
 **laianemuckler/laianemuckler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
